@@ -1,0 +1,83 @@
+{
+  "common": {
+    "language": "french"
+  },
+  "about": {
+    "intro": "Je suis",
+    "name": "Sneh Patel",
+    "description": "un développeur Fullstack avec 3 ans d'expérience dans la création d'applications web réactives et conviviales utilisant des frameworks JavaScript modernes. Passionné par la création d'interfaces intuitives qui résolvent des problèmes réels."
+  },
+  "navigation": {
+    "all": "tout",
+    "about": "à propos",
+    "projects": "projets",
+    "home": "accueil",
+    "repository_selected": "dépôt sélectionné"
+  },
+  "experience": [
+    {
+      "desc": "Développé un wrapper Node.js pour une bibliothèque C++, augmentant les performances de 300 % grâce au multi-threading. Encadré un étudiant en alternance pour développer une fonctionnalité majeure de licence. Conçu une fonctionnalité de sauvegarde de chat sur AWS S3, garantissant une durabilité de 99,9 % avec 20 % d'économies. Créé des rapports analytiques pour la R&D et présentés aux parties prenantes.",
+      "time": "Jan 2025 - Présent"
+    },
+    {
+      "desc": "Automatisé les pipelines CI/CD avec Jenkins, réduisant le temps de déploiement de 50 % pour plus de 10 projets. Aidé des doctorants avec le développement et les déploiements, accélérant les délais de 30 %. Démontré de la créativité en prototypant des mises en page pour améliorer les insights utilisateurs.",
+      "time": "Sep 2024 - Déc 2024"
+    },
+    {
+      "desc": "Développé des applications web full-stack avec React/Next.js (frontend) et Node.js/Express (backend), améliorant la vitesse de rendu de 30 % grâce à la mémoïsation et une conception API efficace. Implémenté le rendu côté serveur (SSR) dans Next.js pour plus de 5 pages, améliorant les performances SEO et réduisant le temps de chargement de 15 %. Automatisé les sauvegardes et scripts de migration pour MongoDB, économisant plus de 10 heures par mois.",
+      "time": "Juil 2022 - Juil 2024"
+    },
+    {
+      "desc": "Intégré plus de 8 endpoints Node.js, améliorant la synchronisation des données de 30 % avec des ajustements en temps réel. Construit des SPAs avec React et Babel, optimisés pour les besoins de scalabilité. Itéré rapidement les designs pour améliorer l'expérience utilisateur.",
+      "time": "Juin 2022 - Juil 2022"
+    }
+  ],
+"projects": [
+  {
+    "description": "Développé un système de gestion hôtelière avec une architecture multi-cloud utilisant AWS et GCP."
+  },  
+  {
+    "description": "Géré des conteneurs GKE avec Terraform et des pipelines CI/CD, accélérant les déploiements de 40 %."
+  },
+  {
+    "description": "Développé un générateur de CV basé sur l'IA avec Node.js, React et AWS, prenant en charge plus de 200 utilisateurs."
+  },
+  {
+    "description": "Créé une plateforme de réservation de voyages en stack MERN avec un accès basé sur les rôles et une connexion Google."
+  },
+  {
+    "description": "Développé une application RAG avec Python et l’API Ollama, améliorant la précision des réponses de 35 %."
+  },
+  {
+    "description": "Développé un générateur de nombres aléatoires inspiré du quantique pour Node.js avec 0,995 bits/entropie via des liaisons C++. Publié comme package NPM."
+  },
+  {
+    "description": "Développé une application de messagerie résistante au quantique avec Electron.js, liboqs et le chiffre de Vernam. Chiffrement 300 % plus rapide."
+  },
+  {
+    "description": "Créé des liaisons Node.js pour la bibliothèque liboqs conforme aux normes NIST, permettant une cryptographie résistante au quantique en JavaScript."
+  },
+  {
+    "description": "Développé une application de stationnement basée sur GPS avec Jetpack Compose, Google Maps SDK et Firebase."
+  },
+  {
+    "description": "Développé une application RAG avec Python et l’API Ollama, améliorant la précision des réponses de 35 %."
+  },
+  {
+    "description": "Créé une plateforme de réservation de voyages en stack PERN avec un panneau d'administration et des déploiements CI/CD sur Google Cloud Run."
+  },
+  {
+    "description": "Conçu un algorithme glouton Simplify Debt pour la gestion des dettes de groupe avec une couverture de test de plus de 75 %."
+  },
+  {
+    "description": "Créé une plateforme de streaming d’anime sans serveur avec AWS, prenant en charge plus de 5 000 utilisateurs quotidiens."
+  },
+  {
+    "description": "Développé un système bancaire avec Java, Spring Boot et MySQL, prenant en charge plus de 100 utilisateurs."
+  }
+]
+,
+  "footer": {
+    "versionOne": "Version Un"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "common": {
+    "language": "english"
+  },
+  "about": {
+    "intro": "I'm",
+    "name": "Sneh Patel",
+    "description": "a Fullstack Developer with 3 years of experience building responsive, user-friendly web applications using modern JavaScript frameworks. Passionate about creating intuitive interfaces that solve real-world problems."
+  },
+  "navigation": {
+    "all": "all",
+    "about": "about",
+    "projects": "projects",
+    "home": "home",
+    "repository_selected": "repository selected"
+  },
+  "experience": [
+    {
+      "desc": "Developed a Node.js wrapper for a C++ library, boosting performance by 300% via multi-threading. Mentored a co-op student in developing a major licensing feature. Designed an AWS S3 chat backup feature, ensuring 99.9% durability with 20% cost savings. Created analytics reports for R&D and presented them to stakeholders.",
+      "time": "Jan 2025 - Present"
+    },
+    {
+      "desc": "Automated CI/CD pipelines with Jenkins, cutting deployment time by 50% for 10+ projects. Assisted Ph.D. students with development and deployments, speeding up timelines by 30%. Demonstrated creativity by prototyping layouts to improve user insights.",
+      "time": "Sep 2024 - Dec 2024"
+    },
+    {
+      "desc": "Developed full-stack web applications using React/Next.js (frontend) and Node.js/Express (backend), improving rendering speed by 30% through memoization and efficient API design. Implemented server-side rendering (SSR) in Next.js for 5+ pages, boosting SEO performance and decreasing page load time by 15%. Automated database backups and migration scripts for MongoDB, saving 10+ hours/month.",
+      "time": "Jul 2022 - Jul 2024"
+    },
+    {
+      "desc": "Integrated 8+ Node.js endpoints, enhanced data sync by 30% with runtime adjustments. Built SPAs using React and Babel, optimized performance for scalability needs. Iterated designs rapidly to enhance user experience.",
+      "time": "Jun 2022 - Jul 2022"
+    }
+  ],
+"projects": [
+  {
+    "description": "Developed a hotel management system with multi-cloud architecture using AWS and GCP."
+  },
+  {
+    "description": "Managed GKE containers with Terraform and CI/CD pipelines, speeding up deployments by 40%."
+  },
+  {
+    "description": "Developed an AI-driven resume builder with Node.js, React, and AWS, supporting 200+ users."
+  },
+  {
+    "description": "Built a MERN stack travel booking platform with role-based access and Google SSO."
+  },
+  {
+    "description": "Built a RAG-based app with Python and Ollama API, improved response accuracy by 35%."
+  },
+  {
+    "description": "Built quantum-inspired RNG for Node.js with 0.995 bits/entropy via C++ bindings. Published as an NPM package."
+  },
+  {
+    "description": "Developed a quantum-resistant chat app with Electron.js, liboqs, and Vernam cipher. Achieved 300% faster encryption."
+  },
+  {
+    "description": "Created Node.js bindings for NIST-standard liboqs, enabling quantum-safe cryptography in JavaScript."
+  },
+  {
+    "description": "Built a GPS-based parking app with Jetpack Compose, Google Maps SDK, and Firebase."
+  },
+  {
+    "description": "Built a RAG-based app with Python and Ollama API, improved response accuracy by 35%."
+  },
+  {
+    "description": "Built a PERN stack travel booking platform with admin panel and CI/CD on Google Cloud Run."
+  },
+  {
+    "description": "Designed a greedy Simplify Debt algorithm for group debt management with 75%+ test coverage."
+  },
+  {
+    "description": "Created a serverless anime streaming platform with AWS, supporting 5,000+ daily users."
+  },
+  {
+    "description": "Built a banking system with Java, Spring Boot, and MySQL, supporting 100+ users."
+  }
+]
+,
+  "footer": {
+    "versionOne": "Version One"
+  }
+}
