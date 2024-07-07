@@ -150,6 +150,54 @@ const Page = ({ params: { locale } }: Props) => {
       className: 'md:col-span-1 p-4',
       icon: <IconTableColumn className="h-4 w-4 text-neutral-500" />,
       active: true,
+    },
+    {
+      title: projectsData[8].title,
+      description: t(`${[8]}.description`),
+      header: <SkeletonMask image={projectsData[8].image} />,
+      className: 'md:col-span-1 p-4',
+      icon: <IconTableColumn className="h-4 w-4 text-neutral-500" />,
+      active: true,
+    },
+    {
+      title: projectsData[9].title,
+      description: t(`${[9]}.description`),
+      header: <SkeletonMask image={projectsData[9].image} />,
+      className: 'md:col-span-1 p-4',
+      icon: <IconTableColumn className="h-4 w-4 text-neutral-500" />,
+      active: true,
+    },
+    {
+      title: projectsData[10].title,
+      description: t(`${[10]}.description`),
+      header: <SkeletonMask image={projectsData[10].image} />,
+      className: 'md:col-span-1 p-4',
+      icon: <IconTableColumn className="h-4 w-4 text-neutral-500" />,
+      active: true,
+    },
+    {
+      title: projectsData[11].title,
+      description: t(`${[11]}.description`),
+      header: <SkeletonMask image={projectsData[11].image} />,
+      className: 'md:col-span-1 p-4',
+      icon: <IconTableColumn className="h-4 w-4 text-neutral-500" />,
+      active: true,
+    },
+    {
+      title: projectsData[12].title,
+      description: t(`${[12]}.description`),
+      header: <SkeletonMask image={projectsData[12].image} />,
+      className: 'md:col-span-1 p-4',
+      icon: <IconTableColumn className="h-4 w-4 text-neutral-500" />,
+      active: true,
+    },
+    {
+      title: projectsData[13].title,
+      description: t(`${[13]}.description`),
+      header: <SkeletonMask image={projectsData[13].image} />,
+      className: 'md:col-span-1 p-4',
+      icon: <IconTableColumn className="h-4 w-4 text-neutral-500" />,
+      active: true,
     }
   ];
 
@@ -187,6 +235,15 @@ const Page = ({ params: { locale } }: Props) => {
       { ...initialItem[7], active: true }, // Project 2
       { ...initialItem[8], active: true }, // Project 3
       { ...initialItem[9], active: true }, // Project 4
+      { ...initialItem[10], active: true }, // Project 5
+      { ...initialItem[11], active: true }, // Project 6
+      { ...initialItem[12], active: true }, // Project 7
+      { ...initialItem[13], active: true }, // Project 8
+      { ...initialItem[14], active: true }, // Project 9
+      { ...initialItem[15], active: true }, // Project 10
+      { ...initialItem[16], active: true }, // Project 11
+      { ...initialItem[17], active: true }, // Project 12
+      { ...initialItem[18], active: true }, // Project 13
     ];
     const rest = [
       { ...initialItem[0], active: false }, // About
