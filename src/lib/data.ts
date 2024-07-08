@@ -8,7 +8,7 @@ import aniverse from '../images/Video_Streaming.png';
 import multi from '../images/multi.png'; // Replace with actual images if available
 import nomadic from '../images/nomadic.png'; // Replace with actual images if available
 import minisql from '../images/transaction.png';
-import onlinebanking from '../images/login.png'; // Replace with actual images if available
+import onlinebanking from '../images/onlinebanking.png'; // Replace with actual images if available
 import AIRes from '../images/AIRes.png'; // Replace with actual images if available
 import qrngnode from '../images/qrngnode.png'; // Replace with actual images if available
 import pqcChat from '../images/pqcChat.png'; // Replace with actual images if available
