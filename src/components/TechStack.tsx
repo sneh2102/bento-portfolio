@@ -2,7 +2,6 @@
 
 import React, { Suspense, useEffect, useState } from 'react';
 import { Player } from '@lottiefiles/react-lottie-player';
-import Animation from '../../public/animations/animation-cat.json';
 import { motion } from 'framer-motion';
 import {
   DiAws,
